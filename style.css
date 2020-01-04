@@ -45,12 +45,25 @@ body {
 
 .head-text {
 	font-weight: 900;
+font-family: 'Anton', sans-serif;
+	margin-left: 9rem;
+	font-size: 90px;
+	color: #fff;
+	letter-spacing: 3px;
 }
 hr {
-	border: .3rem solid #ffffffd1;
-	width: 10rem;
+	border: .3rem solid #e74d89c7;
+	width: 7rem;
 	margin-left: 9rem;
-	margin-top: 2rem;
+	margin-top: 0.6rem;
+}
+.btn {
+	color: #fff;
+	background-color: #e74d89c7;
+	padding: 10px;
+	border-radius: 200px;
+	text-decoration: none;
+	margin-left: 9rem;
 }
 /*.para {
 	max-width: 500px;
