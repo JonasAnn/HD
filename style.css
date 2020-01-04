@@ -46,36 +46,37 @@ body {
 .head-text {
 	font-weight: 900;
 font-family: 'Anton', sans-serif;
-	margin-left: 9rem;
-	font-size: 90px;
+	margin-left: 8rem;
+	font-size: 80px;
 	color: #fff;
 	letter-spacing: 3px;
 }
 hr {
 	border: .3rem solid #e74d89c7;
 	width: 7rem;
-	margin-left: 9rem;
+	margin-left: 8rem;
 	margin-top: 0.6rem;
+}
+.para-text {
+	color: #fff;
+	width: 370px;
+	margin-left: 8rem;
+	text-align: justify;
+	font-size: 12px;
+	font-weight: thin;
+	margin-top: 1rem;
+	margin-bottom: 2rem;
+
 }
 .btn {
 	color: #fff;
 	background-color: #e74d89c7;
-	padding: 10px;
+	padding: 14px 55px;
 	border-radius: 200px;
 	text-decoration: none;
-	margin-left: 9rem;
+	margin-left: 8rem;
+	border: 1px solid #B2215A;
+	font-size: 15px;
+
 }
-/*.para {
-	max-width: 500px;
-	position: relative;
-	top: 50%;
-	left: 50%;
-	transform: translate(-100%, -70%);
-}
-p {
-	text-align: justify;
-}
-.head-text{
-	font-weight: 700;
-	font-size: 2em;
-}*/
+
